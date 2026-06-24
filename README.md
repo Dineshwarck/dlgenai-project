@@ -1,1 +1,1 @@
-# dlgenai-prooject
+# dlgenai-project
